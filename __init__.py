@@ -1,1 +1,1 @@
-# explainai package init
+from .main import explain
